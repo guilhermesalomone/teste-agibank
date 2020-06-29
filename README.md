@@ -26,7 +26,7 @@ Critérios de Avaliação
 ● Scalability/Performance
 ```
 
-# Mavenquickstart
+### Mavenquickstart
 
 Esse projeto ilustra a estrutura gerada através da utilização do arquétipo Quickstart do Maven utilizando o JDK14.
 
@@ -63,7 +63,7 @@ O comando irá baixar todas as dependências do projeto e criar um diretório ta
 Além disso, serão executados os testes unitários, e se algum falhar, o Maven exibirá essa informação no console.
 
 
-## Configuração
+### Configuração
 
 Para executar o projeto, é necessário utilizar o Eclipse, para que o mesmo identifique as dependências necessárias <p>
 para a execução no repositório .m2 do Maven. Uma vez importado o projeto, será criado um arquivo *.classpath* que irá informar qual a classe principal para a execução.
