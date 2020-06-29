@@ -37,7 +37,7 @@ Para executar o projeto, será necessário instalar os seguintes programas:
 - [JDK 14: Necessário para executar o projeto Java](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html) 
 - [Maven 3.6.3: Necessário para realizar o build do projeto Java](http://mirror.nbtelecom.com.br/apache/maven/maven-3/3.6.3/source/apache-maven-3.6.3-src.zip) 
 - [Eclipse 2020-03: Para desenvolvimento do projeto](https://www.eclipse.org/downloads/packages/release/2020-03/m3) 
-
+- [Lombok](https://projectlombok.org/downloads/lombok.jar)
 
 
 
